@@ -1,5 +1,5 @@
 //ToxicSamura
-//You may use/edit
+//Licensed under Creative Commons CC-BY-NC-SA
 //It may take a few seconds to load
 
 //Import statement

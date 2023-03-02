@@ -17,7 +17,7 @@ void setup() {
   size(640, 360);
   //Load movie file into myMovie object
   myMovie = new Movie(this, "dancer.mov");
-  //Set the video to continously plau on a loop
+  //Set the video to continously play on a loop
   myMovie.loop();
 }
 

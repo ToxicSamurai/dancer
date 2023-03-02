@@ -1,4 +1,4 @@
-//ToxicSamura
+//ToxicSamurai
 //Licensed under Creative Commons CC-BY-NC-SA
 //It may take a few seconds to load
 
